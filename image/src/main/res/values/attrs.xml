@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IntensifyImageView">
+        <attr name="scaleType" format="enum">
+            <enum name="fitAuto" value="1" />
+            <enum name="fitCenter" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
